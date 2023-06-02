@@ -5,3 +5,6 @@ William Pham
 
 ## What does it do?
 Running this code will make you awesome
+
+## New features 
+More Cowbell
